@@ -1,0 +1,21 @@
+.card{
+    border: 1px solid #ccc;
+   
+    cursor: pointer;
+    width: 250px;
+    color: black;
+   background-color: rgba(0, 255, 255, 0.133); 
+}
+.best-seller {
+    border: 2px solid rgb(19, 100, 161);
+  }
+  
+  .best-seller-label {
+    background-color: rgba(25, 25, 99, 0.549);
+    color: #333;
+    padding: 0.2rem 0.5rem;
+    font-weight: bold;
+    margin: 0;
+    box-shadow: #333;
+  }
+  
